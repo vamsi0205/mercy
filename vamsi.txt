@@ -1,1 +1,2 @@
-HelWelcome tomthe vamsi's magic world
+Hello world
+Welcome tomthe vamsi's magic world
